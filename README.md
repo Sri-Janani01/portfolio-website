@@ -24,3 +24,7 @@ A responsive personal portfolio website built using HTML, CSS, and JavaScript.
 ## 🎯 Purpose
 
 Built to practice frontend development fundamentals including DOM manipulation, UI components, and state management.
+
+## 🌐 Live Demo
+[View Portfolio](https://Sri-Janani01.github.io/portfolio-website)
+
