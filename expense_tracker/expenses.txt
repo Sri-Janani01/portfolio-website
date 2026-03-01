@@ -1,0 +1,5 @@
+50,food
+1000,shopping
+10000,shopping
+1000.0,shop
+20000.0,bore
